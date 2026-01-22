@@ -1,0 +1,200 @@
+this is  logger file Mon Jan 19 2026 16:51:34 GMT+0530 (India Standard Time) and Error and this is erro Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is info 
+ Type: info
+Message: this is info
+
+Data: this is info 
+ Type: info
+Message: this is info
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is info 
+ Type: info
+Message: this is info
+
+Data: this is info 
+ Type: info
+Message: this is info
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
+Data: this is erro 
+ Type: errro
+Message: this is erro
+
